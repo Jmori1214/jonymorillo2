@@ -1,0 +1,242 @@
+/* this was all a wonderful experience, thank you Project code*/
+
+
+/* This section here controls the navigation bar */
+ul {
+    text-align: right;
+    
+    overflow: hidden;
+    background-color: #FFBF00;
+    padding: 2%;
+    margin: auto;
+    opacity: .9;
+}
+li {
+    display: inline;
+}
+  
+li a {
+    text-decoration: none;
+    padding: 20px;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+a:hover {
+    color: #6A34B2;
+    font-size: 30px;
+    font-weight: bold;
+}
+a:link {
+    color: ##6A34B2;
+}
+a:active{
+    color: red;
+}
+
+/* This section controls the background image of the entire page */
+body {
+    
+    background: url(http://www.securitymagazine.com/ext/resources/SEC/2016/0216/SEC0216-parking-feature-slide5_900px.jpg);
+    background-size: 100%;
+/* This section controls the appearance of the content on the page*/    
+}
+.container {
+    width: 45%;
+    margin: auto;
+    background-color: #e1e1e1;
+    overflow: auto;
+    opacity: .9;
+    position: relative;
+    margin-top: -5%;
+
+}
+#title {
+    position: relative;
+    top: -75px;
+    left: 25px;
+    color: #6A34B2;
+    font-family: 'Luckiest Guy', cursive;
+}
+
+}
+.footer {
+    width: 100%;
+    background-color: #e1e1e1;
+    text-align: center;
+    text-decoration: none;
+    clear: both;
+}
+.sidebar{
+    float: left ;
+    width: 15%;
+    padding: 10px;
+    box-sizing: border-box;
+    position: relative;
+    margin-top: -46.5%;
+    left: 11%;
+    background-color: #e1e1e1;
+    opacity: .9;
+}
+.sidebartwo{
+    float: right;
+    width: 15%;
+    padding: 10px;
+    box-sizing: border-box;
+    position: relative;
+    margin-top: -46.5%;
+    background-color: #e1e1e1;
+    margin-right: 11%;
+    opacity: .9;
+    
+}
+    
+#one {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    
+}
+#two {
+    text-align: center;
+    font-size: 45px;
+    color: #0B62A4;
+    line-height: 2%;
+    font-family: 'Luckiest Guy', cursive;
+}
+#three {
+    color: black;
+    text-align: center;
+    font-size: 26px;
+}
+#barone {
+    border-bottom: 1px solid #6A34B2;
+}
+#bartwo {
+    border-bottom: 1px solid #6A34B2;
+}
+#barthree {
+    border-bottom: 1px solid #6A34B2;
+}
+#barfour {
+    border-bottom: 1px solid #6A34B2;
+}
+#barfive{
+    border-bottom: 1px solid #6A34B2;
+}
+
+}
+#locationone {
+    text-align: center;
+}
+#locationtwo {
+    text-align: center;
+}
+.local {
+    text-align: center
+}
+.loca {
+    text-align: center;
+}
+.apple {
+    border-bottom: 1px solid red;
+    
+}
+.oranges {
+    border-bottom: 1px solid red;
+}
+#thankyou {
+    color:#0B62A4;
+}
+#allyear {
+    color:#0B62A4;
+}
+#waittime {
+    color:#0B62A4;
+}
+
+#morris {
+    color: #0B62A4;
+}
+#eagle {
+    color:#0B62A4;
+}
+#coupons {
+    font-size: 100px;
+    color: #518DBB;
+    position: relative;
+    bottom: 50px;
+    background-color: #310769;
+    text-align: center;
+    height: 10%;
+    font-family: 'Luckiest Guy', cursive;
+}
+#daily {
+    font-size: 90px;
+    color: #518DBB;
+    position: relative;
+    bottom: 50px;
+    background-color: #310769;
+    text-align: center;
+    height: 10%;
+    font-family: 'Luckiest Guy', cursive;
+}
+#monthly {
+    font-size: 70px;
+    color: #518DBB;
+    position: relative;
+    bottom: 0px;
+    background-color: #310769;
+    text-align: center;
+    height: 10%;
+    margin:auto;
+    font-family: 'Luckiest Guy', cursive;
+}
+#locationtitle {
+    font-size: 90px;
+    color: #518DBB;
+    position: relative;
+    bottom: 50px;
+    background-color: #310769;
+    text-align: center;
+    height: 10%;
+    font-family: 'Luckiest Guy', cursive;
+}
+#contact {
+    font-size: 90px;
+    color: #518DBB;
+    position: relative;
+    bottom: 50px;
+    background-color: #310769;
+    text-align: center;
+    height: 10%;
+    font-family: 'Luckiest Guy', cursive;
+}
+.couponsone {
+    font-size: 40px;
+}
+.hourone {
+    font-size: 40px;
+    text-align: center;
+    font-family: serif;
+    
+}
+
+.monthone {
+    font-size: 40px;
+}
+.contactone {
+    font-size: 40px;
+}
+.me {
+    border: 3px dashed red;
+}
+.me p {
+    font-weight: bold;
+    font-family: serif;
+}
+.por {
+    font-weight: bold;
+}
